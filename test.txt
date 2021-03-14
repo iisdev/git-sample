@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit 3
+=======
+commit 2
+>>>>>>> 416918a (N commit 2)
