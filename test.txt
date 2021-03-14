@@ -1,2 +1,2 @@
 commit 4
-merge 1
+merge 3
