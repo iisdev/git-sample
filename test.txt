@@ -1,6 +1,0 @@
-hello git 123
-New line.
-add another line/
-3333 devchange
-commit 1
-commit 2
